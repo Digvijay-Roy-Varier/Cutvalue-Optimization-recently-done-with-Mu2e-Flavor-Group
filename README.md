@@ -22,4 +22,4 @@ Neither do we want to unwantedly ignore too many electron hits by keeping the cu
   (many other important plots also come along as part of the training, like this one "ROC_Bkg_vs_Sig_on_TMVA_GUI.png")
   
 **(3)** **_The surprising lack of expected distinction between dE/dx data of electrons and muons obtained from a model Mu2e experiment_** 
-This was further investigated by senior members of our group. (**image**: The significant overlap of the two distributions can be seen in "Electron_Muon_dEdx_overlap.png". The short code generating this image is in "electron_muon_overlap.C")
+  > This was further investigated by senior members of our group. (**image**: The significant overlap of the two distributions can be seen in "Electron_Muon_dEdx_overlap.png". The short code generating this image is in "electron_muon_overlap.C")
